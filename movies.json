@@ -64,8 +64,8 @@
 
         ]
     },
-    "before":{
-        "unknow":[
+    "before":[
+
             {
                 "name":"Revolutionary Road",
                 "alias":"革命之路",
@@ -92,7 +92,24 @@
                 "country":"US",
                 "comments":"",
                 "imdb":"tt0993846"
+            },
+            {
+                "name":"1984",
+                "alias":"1984",
+                "year":"1954",
+                "rating":"7.5",
+                "country":"UK",
+                "comments":"",
+                "imdb":"tt14473100"
+            },
+            {
+                "name":"V for Vendetta",
+                "alias":"V字仇杀队",
+                "year":"2005",
+                "rating":"8.1",
+                "country":"UK",
+                "comments":"启蒙作,好电影",
+                "imdb":"tt0434409"
             }
-        ]
-    }
+    ]
 }
