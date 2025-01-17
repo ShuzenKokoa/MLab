@@ -6,7 +6,7 @@
                 "alias":"猫鼠游戏",
                 "year":"2002",
                 "rating":"8.1",
-                "country":"US",
+                "country":"United States",
                 "comments":"",
                 "imdb":"tt0264464"
 
@@ -20,6 +20,24 @@
                 "comments":"绝对值得一看的好电影，然而现实往往比这更加残酷和凶险。",
                 "imdb":"tt0405094"
 
+            },
+            {
+                "name":"The Cabin in the Woods",
+                "alias":"林中小屋",
+                "year":"2011",
+                "rating":"7.0",
+                "country":"United States,Canada",
+                "comments":"还行，感觉还可以再拍个续作",
+                "imdb":"tt1259521"
+            },
+            {
+                "name":"The Cabin in the Woods",
+                "alias":"肖申克的救赎",
+                "year":"1994",
+                "rating":"9.3",
+                "country":"United States",
+                "comments":"hope is a good thing.maybe the best of things and no good thing ever dies",
+                "imdb":"tt0111161"
             }
         ]
     },
@@ -30,7 +48,7 @@
                 "alias":"美国队长1",
                 "year":"2011",
                 "rating":"6.9",
-                "country":"US",
+                "country":"United States",
                 "comments":"",
                 "imdb":"tt0458339"
             },
@@ -39,7 +57,7 @@
                 "alias":"钢铁侠1",
                 "year":"2008",
                 "rating":"7.9",
-                "country":"US",
+                "country":"United States",
                 "comments":"",
                 "imdb":"tt0371746"
             },
@@ -57,7 +75,7 @@
                 "alias":"一路向西",
                 "year":"2012",
                 "rating":"5.3",
-                "country":"HK",
+                "country":"Hong Kong",
                 "comments":" 那句艹你妈比没绷住",
                 "imdb":"tt2370792"
             }
@@ -71,7 +89,7 @@
                 "alias":"革命之路",
                 "year":"2008",
                 "rating":"7.3",
-                "country":"US",
+                "country":"United States",
                 "comments":"理想与现实的碰撞",
                 "imdb":"tt0959337"
             },
@@ -80,7 +98,7 @@
                 "alias":"恋恋笔记本",
                 "year":"2008",
                 "rating":"7.8",
-                "country":"US",
+                "country":"United States",
                 "comments":"",
                 "imdb":"tt0332280"
             },
@@ -89,7 +107,7 @@
                 "alias":"华尔街之狼",
                 "year":"2013",
                 "rating":"8.2",
-                "country":"US",
+                "country":"United States",
                 "comments":"",
                 "imdb":"tt0993846"
             },
@@ -98,7 +116,7 @@
                 "alias":"1984",
                 "year":"1954",
                 "rating":"7.5",
-                "country":"UK",
+                "country":"United Kingdom",
                 "comments":"",
                 "imdb":"tt14473100"
             },
@@ -107,9 +125,18 @@
                 "alias":"V字仇杀队",
                 "year":"2005",
                 "rating":"8.1",
-                "country":"UK",
+                "country":"United Kingdom",
                 "comments":"启蒙作,好电影",
                 "imdb":"tt0434409"
+            },
+            {
+                "name":"Escape Plan",
+                "alias":"金蝉脱壳",
+                "year":"2013",
+                "rating":"8.1",
+                "country":"United States",
+                "comments":"",
+                "imdb":"tt1211956"
             }
     ]
 }
