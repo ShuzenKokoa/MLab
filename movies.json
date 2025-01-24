@@ -36,7 +36,7 @@
                 "year":"1994",
                 "rating":"9.3",
                 "country":"United States",
-                "comments":"hope is a good thing.maybe the best of things and no good thing ever dies",
+                "comments":"hope is a good thing.maybe the best of things and no good thing ever dies.感觉有点overrated,有点中空。8.4 may suitable",
                 "imdb":"tt0111161"
             }
         ]
@@ -81,62 +81,6 @@
             }
 
         ]
-    },
-    "before":[
+    }
 
-            {
-                "name":"Revolutionary Road",
-                "alias":"革命之路",
-                "year":"2008",
-                "rating":"7.3",
-                "country":"United States",
-                "comments":"理想与现实的碰撞",
-                "imdb":"tt0959337"
-            },
-            {
-                "name":"The Notebook",
-                "alias":"恋恋笔记本",
-                "year":"2008",
-                "rating":"7.8",
-                "country":"United States",
-                "comments":"",
-                "imdb":"tt0332280"
-            },
-            {
-                "name":"The Wolf of Wall Street",
-                "alias":"华尔街之狼",
-                "year":"2013",
-                "rating":"8.2",
-                "country":"United States",
-                "comments":"",
-                "imdb":"tt0993846"
-            },
-            {
-                "name":"1984",
-                "alias":"1984",
-                "year":"1954",
-                "rating":"7.5",
-                "country":"United Kingdom",
-                "comments":"",
-                "imdb":"tt14473100"
-            },
-            {
-                "name":"V for Vendetta",
-                "alias":"V字仇杀队",
-                "year":"2005",
-                "rating":"8.1",
-                "country":"United Kingdom",
-                "comments":"启蒙作,好电影",
-                "imdb":"tt0434409"
-            },
-            {
-                "name":"Escape Plan",
-                "alias":"金蝉脱壳",
-                "year":"2013",
-                "rating":"8.1",
-                "country":"United States",
-                "comments":"",
-                "imdb":"tt1211956"
-            }
-    ]
 }
