@@ -96,6 +96,15 @@
                 "country":"Germany",
                 "comments":"诡异的口哨，早晨空旷的城市。部分地方采用了默片形式，黑白片，罪犯歇斯底里的表情使得整部惊悚氛围拉满。非常经典的expressionism",
                 "imdb":"tt0022100"
+            },
+            {
+                "name":"Breakfast at Tiffany's",
+                "alias":"蒂凡尼的早餐",
+                "year":"1961",
+                "rating":"7.6",
+                "country":"United States",
+                "comments":"",
+                "imdb":"tt0054698"
             }
         ]
     }
