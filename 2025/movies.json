@@ -2,7 +2,7 @@
     "2025":{
         "January":[
             {
-                "name":"Catch Me If You Can",
+                "title":"Catch Me If You Can",
                 "alias":"猫鼠游戏",
                 "year":"2002",
                 "rating":"8.1",
@@ -12,7 +12,7 @@
 
             },
             {
-                "name":"The Lives of Others",
+                "title":"The Lives of Others",
                 "alias":"窃听风暴",
                 "year":"2006",
                 "rating":"8.4",
@@ -22,7 +22,7 @@
 
             },
             {
-                "name":"The Cabin in the Woods",
+                "title":"The Cabin in the Woods",
                 "alias":"林中小屋",
                 "year":"2011",
                 "rating":"7.0",
@@ -31,16 +31,16 @@
                 "imdb":"tt1259521"
             },
             {
-                "name":"The Cabin in the Woods",
+                "title":"The Cabin in the Woods",
                 "alias":"肖申克的救赎",
                 "year":"1994",
                 "rating":"9.3",
                 "country":["United States"],
-                "comments":"hope is a good thing.maybe the best of things and no good thing ever dies.感觉有点overrated,有点中空。8.4 might be suitable",
+                "comments":"overrated",
                 "imdb":"tt0111161"
             },
             {
-                "name":"Mission: Impossible",
+                "title":"Mission: Impossible",
                 "alias":"碟中谍I",
                 "year":"1996",
                 "rating":"7.2",
@@ -51,7 +51,7 @@
         ],
         "February":[
             {
-                "name":"Love Actually",
+                "title":"Love Actually",
                 "alias":"真爱至上",
                 "year":"2003",
                 "rating":"7.6",
@@ -60,7 +60,7 @@
                 "imdb":"tt0314331"
             },
             {
-                "name":"Pride & Prejudice",
+                "title":"Pride & Prejudice",
                 "alias":"傲慢与偏见",
                 "year":"2005",
                 "rating":"7.8",
@@ -69,7 +69,7 @@
                 "imdb":"tt0414387"
             },
             {
-                "name":"Inglourious Basterds",
+                "title":"Inglourious Basterds",
                 "alias":"无耻混蛋",
                 "year":"2009",
                 "rating":"8.4",
@@ -78,7 +78,7 @@
                 "imdb":"tt0361748"
             },
             {
-                "name":"Saw",
+                "title":"Saw",
                 "alias":"电锯惊魂I",
                 "year":"2004",
                 "rating":"7.6",
@@ -89,16 +89,16 @@
         ],
         "March":[
             {
-                "name":"M",
+                "title":"M",
                 "alias":"M就是凶手",
                 "year":"1931",
                 "rating":"8.3",
                 "country":["Germany"],
-                "comments":"诡异的口哨，早晨空旷的城市。部分地方采用了默片形式，黑白片，罪犯歇斯底里的表情使得整部惊悚氛围拉满。非常经典的expressionism",
+                "comments":"非常经典expressionism",
                 "imdb":"tt0022100"
             },
             {
-                "name":"Breakfast at Tiffany's",
+                "title":"Breakfast at Tiffany's",
                 "alias":"蒂凡尼的早餐",
                 "year":"1961",
                 "rating":"7.6",
@@ -107,7 +107,7 @@
                 "imdb":"tt0054698"
             },
             {
-                "name":"Saturday Night and Sunday Morning",
+                "title":"Saturday Night and Sunday Morning",
                 "alias":"浪子春潮",
                 "year":"1960",
                 "rating":"7.5",
@@ -116,7 +116,7 @@
                 "imdb":"tt0054269"
             },
             {
-                "name":"Triumph of the Will",
+                "title":"Triumph of the Will",
                 "alias":"意志的胜利",
                 "year":"1935",
                 "rating":"7.1",
@@ -125,7 +125,7 @@
                 "imdb":"tt0025913"
             },
             {
-                "name":"The Private Eyes",
+                "title":"The Private Eyes",
                 "alias":"半斤八两",
                 "year":"1976",
                 "rating":"7.0",
@@ -134,7 +134,7 @@
                 "imdb":"tt0074179"
             },
             {
-                "name":"Front Page",
+                "title":"Front Page",
                 "alias":"新半斤八两",
                 "year":"1990",
                 "rating":"6.5",
@@ -145,7 +145,7 @@
         ],
         "April":[
             {
-                "name":"Barry Lyndon",
+                "title":"Barry Lyndon",
                 "alias":"巴里·林登",
                 "year":"1975",
                 "rating":"8.1",
@@ -154,14 +154,416 @@
                 "imdb":"tt0072684"
             },
             {
-                "name":"The Red Shoes",
+                "title":"The Red Shoes",
                 "alias":"红菱艳",
                 "year":"1948",
                 "rating":"8.1",
                 "country":["United Kingdom"],
                 "comments":"",
-                "imdb":"tt0040725"
+                "imdb":"tt0040725",
+                "metainfo":[
+                    {
+                        "size":"87.4 GiB",
+                        "resolution":"2160P",
+                        "encode":"OurBits",
+                    }
+                ]
             }
+        ],
+        "May":[
+            {
+                "title":"Faust",
+                "alias":"浮士德",
+                "year":"1926",
+                "rating":"8.1",
+                "country":["Germany"],
+                "direcotr":["Fritz Lang"],
+                "comments":"liebe",
+                "imdb":"tt0016847",
+                "metainfo":[
+                    {
+                        "size":"20 GiB",
+                        "resolution":"1080P",
+                        "encode":"CMCT",
+                    }
+                ]
+            },
+            {
+                "title":"Metropolis",
+                "alias":"大都会",
+                "year":"1927",
+                "rating":"8.3",
+                "country":["Germany"],
+                "direcotr":["F.W. Murnau"],
+                "comments":"",
+                "imdb":"tt0017136",
+                "metainfo":[
+                    {
+                        "size":"14 GiB",
+                        "resolution":"1080P",
+                        "encode":"CMCT",
+                    }
+                ]
+            },
+            {
+                "title":"Ruby & Quentin",
+                "alias":"你丫闭嘴!",
+                "year":"2003",
+                "rating":"7.1",
+                "country":["France"],
+                "direcotr":["Francis Veber"],
+                "comments":"",
+                "imdb":"tt0310203",
+                "metainfo":[
+                    {
+                        "size":"4.4 GiB",
+                        "resolution":"720P",
+                        "encode":"WiKi",
+                    }
+                ]
+            },
+            {
+                "title":"Ferris Bueller's Day Off",
+                "alias":"春天不读书天",
+                "year":"1986",
+                "rating":"7.8",
+                "country":["United States"],
+                "direcotr":["John Hughes"],
+                "comments":"",
+                "imdb":"tt0091042",
+                "metainfo":[
+                    {
+                        "size":"24.3 GiB",
+                        "resolution":"2160P",
+                        "encode":"FRDS",
+                    }
+                ]
+            },
+            {
+                "title":"A Man Escaped",
+                "alias":"死囚越狱",
+                "year":"1956",
+                "rating":"8.2",
+                "country":["France"],
+                "direcotr":["Robert Bresson"],
+                "comments":"",
+                "imdb":"tt0049902",
+                "metainfo":[
+                    {
+                        "size":"? GiB",
+                        "resolution":"2160P",
+                        "encode":"",
+                    }
+                ]
+            },
+            {
+                "title":"Wings of Desire",
+                "alias":"柏林苍穹下",
+                "year":"1987",
+                "rating":"7.9",
+                "country":["Germany","France"],
+                "direcotr":["Wim Wenders"],
+                "comments":"",
+                "imdb":"tt0093191",
+                "metainfo":[
+                    {
+                        "size":"46.4 GiB",
+                        "resolution":"1080P",
+                        "encode":"Audies",
+                    }
+                ]
+            },
+            {
+                "title":"Escape from Alcatraz",
+                "alias":"逃出亚卡拉",
+                "year":"1979",
+                "rating":"7.5",
+                "country":["United States"],
+                "direcotr":["Don Siegel"],
+                "comments":"",
+                "imdb":"tt0079116",
+                "metainfo":[
+                    {
+                        "size":"9 GiB",
+                        "resolution":"1080P",
+                        "encode":"CMCT",
+                    }
+                ]
+            },
+            {
+                "title":"One, Two, Three",
+                "alias":"",
+                "year":"1961",
+                "rating":"7.8",
+                "country":["United States"],
+                "direcotr":["Billy Wilder"],
+                "comments":"好片",
+                "imdb":"tt0055256",
+                "metainfo":[
+                    {
+                        "size":"23.1 GiB",
+                        "resolution":"1080P",
+                        "encode":"Audies",
+                    }
+                ]
+            },
+        ],
+        "June":[
+            {
+                "title":"Shutter Island",
+                "alias":"禁闭岛",
+                "year":"2010",
+                "rating":"8.2",
+                "country":["United States","Canada"],
+                "direcotr":["Martin Scorsese"],
+                "comments":"找越狱题材意外发现的不错的电影。整个剧情穿插了大量细节 .直到结尾才连起来，就一开头看见水就呕吐都用到了。需要非常集中注意力和思考。",
+                "imdb":"tt1130884",
+                "metainfo":[
+                    {
+                        "size":"41.66 GiB",
+                        "resolution":"1080P",
+                        "encode":"Audies",
+                    }
+                ]
+            },
+            {
+                "title":"Divorce Italian Style",
+                "alias":"意大利式离婚",
+                "year":"1961",
+                "rating":"7.9",
+                "country":["Italy"],
+                "direcotr":["Pietro Germi"],
+                "comments":"草，和La dolce vita梦幻联动.。",
+                "imdb":"tt0055913",
+                "metainfo":[
+                    {
+                        "size":"38.9 GiB",
+                        "resolution":"1080P",
+                        "encode":"Audies",
+                    }
+                ]
+            },
+            {
+                "title":"La Dolce Vita",
+                "alias":"甜蜜的生活",
+                "year":"1960",
+                "rating":"8.0",
+                "country":["Italy"],
+                "direcotr":["Federico Fellini"],
+                "comments":"",
+                "imdb":"tt0053779",
+                "metainfo":[
+                    {
+                        "size":"45.9 GiB",
+                        "resolution":"1080P",
+                        "encode":"Audies",
+                    }
+                ]
+            },
+            {
+                "title":"Scent of a Woman",
+                "alias":"闻香识女人",
+                "year":"1993",
+                "rating":"8.0",
+                "country":["United States"],
+                "direcotr":["Martin Brest"],
+                "comments":"he’s kinda like Terry A Davis",
+                "imdb":"tt0105323",
+                "metainfo":[
+                    {
+                        "size":"42.6 GiB",
+                        "resolution":"1080P",
+                        "encode":"Audies",
+                    }
+                ]
+            },
+            {
+                "title":"Brief Encounter",
+                "alias":"相见恨晚",
+                "year":"1945",
+                "rating":"8.0",
+                "country":["United Kingdom"],
+                "direcotr":["David Lean"],
+                "comments":"",
+                "imdb":"tt0037558",
+                "metainfo":[
+                    {
+                        "size":"7.6 GiB",
+                        "resolution":"1080P",
+                        "encode":"CMCT",
+                    }
+                ]
+            },
+            {
+                "title":"The Rules of the Game",
+                "alias":"游戏规则",
+                "year":"1939",
+                "rating":"7.9",
+                "country":["France"],
+                "direcotr":["Jean Renoir"],
+                "comments":"",
+                "imdb":"tt0031885",
+                "metainfo":[
+                    {
+                        "size":"45.9 GiB",
+                        "resolution":"1080P",
+                        "encode":"Audies",
+                    }
+                ]
+            },
+            {
+                "title":"The Dreamers",
+                "alias":"戏梦巴黎",
+                "year":"2003",
+                "rating":"7.1",
+                "country":["France"],
+                "direcotr":["Bernardo Bertolucci"],
+                "comments":"6.5分，电影中的现象正在中国大陆发生. 这些所谓的maoism大部分都是学生(最死妈的群体) 就是theo的镜像,其实只是想找个骚燕妮草逼罢了.",
+                "imdb":"tt0309987",
+                "metainfo":[
+                    {
+                        "size":"54.2 GiB",
+                        "resolution":"2160P",
+                        "encode":"OurBits",
+                    }
+                ]
+            },
+            {
+                "title":"Basic Instinct",
+                "alias":"本能",
+                "year":"1992",
+                "rating":"7.1",
+                "country":["United States"],
+                "direcotr":["Paul Verhoeven"],
+                "comments":"草 逃学威龙3致敬的一部",
+                "imdb":"tt0103772",
+                "metainfo":[
+                    {
+                        "size":"73.4 GiB",
+                        "resolution":"2160P",
+                        "encode":"CiNEPHiLES",
+                    }
+                ]
+            },
+            {
+                "title":"The Unexpected Virtue of Ignorance",
+                "alias":"鸟人",
+                "year":"2014",
+                "rating":"7.7",
+                "country":["United States"],
+                "direcotr":["Alejandro G. Iñárritu"],
+                "comments":"",
+                "imdb":"tt2562232",
+                "metainfo":[
+                    {
+                        "size":"11.0 GiB",
+                        "resolution":"1080P",
+                        "encode":"CMCT",
+                    }
+                ]
+            },
+            {
+                "title":"Seven Samurai",
+                "alias":"七人の侍",
+                "year":"1954",
+                "rating":"8.6",
+                "country":["Japan"],
+                "direcotr":["Akira Kurosawa"],
+                "comments":"what a masterpiece 实在想不出什么词形容",
+                "imdb":"tt0047478",
+                "metainfo":[
+                    {
+                        "size":"89.1 GiB",
+                        "resolution":"2160P",
+                        "encode":"Audies",
+                    }
+                ]
+            },
+            {
+                "title":"Harakiri",
+                "alias":"切腹",
+                "year":"1962",
+                "rating":"8.6",
+                "country":["Japan"],
+                "direcotr":["Masaki Kobayashi"],
+                "comments":"masterpiece*2 #cc",
+                "imdb":"tt0056058",
+                "metainfo":[
+                    {
+                        "size":"33.0 GiB",
+                        "resolution":"1080P",
+                        "encode":"ADE",
+                    }
+                ]
+            },
+            {
+                "title":"Rashomon",
+                "alias":"羅生門",
+                "year":"1950",
+                "rating":"8.2",
+                "country":["Japan"],
+                "direcotr":["Akira Kurosawa"],
+                "comments":"masterpiece*3#cc 之前在大宰治里的书经常提到芥川龙之介,没想到原型就是他的书",
+                "imdb":"tt0042876",
+                "metainfo":[
+                    {
+                        "size":"21.9 GiB",
+                        "resolution":"1080P",
+                        "encode":"ADE",
+                    }
+                ]
+            },
+            {
+                "title":"Sanjuro",
+                "alias":"椿三十郎",
+                "year":"1962",
+                "rating":"8.0",
+                "country":["Japan"],
+                "direcotr":["Akira Kurosawa"],
+                "comments":"",
+                "imdb":"tt0056443",
+                "metainfo":[
+                    {
+                        "size":"62.8 GiB",
+                        "resolution":"2160P",
+                        "encode":"ADE",
+                    }
+                ]
+            },
+            {
+                "title":"To Be or Not to Be",
+                "alias":"你逃我也逃",
+                "year":"1942",
+                "rating":"8.1",
+                "country":["United States"],
+                "direcotr":["Ernst Lubitsch"],
+                "comments":"最后竟然换人了？that iiii",
+                "imdb":"tt0035446",
+                "metainfo":[
+                    {
+                        "size":"42.8 GiB",
+                        "resolution":"1080P",
+                        "encode":"OurBits",
+                    }
+                ]
+            },
+            {
+                "title":"Woman in the Dunes",
+                "alias":"砂の女",
+                "year":"1964",
+                "rating":"8.4",
+                "country":["Japan"],
+                "direcotr":["Hiroshi Teshigahara"],
+                "comments":"",
+                "imdb":"tt0058625",
+                "metainfo":[
+                    {
+                        "size":"25.3 GiB",
+                        "resolution":"1080P",
+                        "encode":"ADE",
+                    }
+                ]
+            },
         ]
     }
 }
