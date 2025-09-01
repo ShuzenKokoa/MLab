@@ -15,6 +15,6 @@
 | [Harakiri](https://www.imdb.com/title/tt0056058/)            | 切腹         | 1962 | 8.6    | Japan                | Masaki Kobayashi      | masterpiece*2 #cc                                            |
 | [Rashomon](https://www.imdb.com/title/tt0042876)             | 羅生門       | 1950 | 8.2    | Japan                | Akira Kurosawa        | masterpiece*3#cc 之前在大宰治里的书经常提到芥川龙之介,没想到原型就是他的书 |
 | [Sanjuro](https://www.imdb.com/title/tt0056443)              | 椿三十郎     | 1962 | 8.0    | Japan                | Akira Kurosawa        | #cc ?                                                        |
-| [To Be or Not to Be](https://www.imdb.com/title/tt0035446)   | 你逃我也逃   | 1942 | 8.1    | United States        | Ernst Lubitsch        | 最后竟然换人了？that iiii                                    |
-| [Woman in the Dunes](https://www.imdb.com/title/tt0058625)   | 砂の女       | 1964 | 8.4    | Japan                | Hiroshi Teshigahara   | 好电影#cc                                                    |
+| [To Be or Not to Be](https://www.imdb.com/title/tt0035446)   | 你逃我也逃   | 1942 | 8.1    | United States        | Ernst Lubitsch        | [想到之前的无耻混蛋]。最后竟然换人了？that iiii声音沙哑那我是真笑了~~换个人戴绿帽是吧~~ |
+| [Woman in the Dunes](https://www.imdb.com/title/tt0058625)   | 砂の女       | 1964 | 8.4    | Japan                | Hiroshi Teshigahara   | 好电影#cc394 ,镜头语言已经给了很强烈的暗示，如虫子在沙子里爬，被做成标本,恰恰就是暗示男主非常的无力，同时深陷“沙“的束缚。且之前女主说了：“你会习惯的”。最后男主也暂时不逃了，整个过程你可以窥探男主心态的变化 |
 
